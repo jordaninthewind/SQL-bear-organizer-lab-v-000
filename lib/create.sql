@@ -5,5 +5,5 @@ CREATE TABLE bears (
     gender CHAR,
     color TEXT,
     temperament TEXT,
-    alive TEXT
+    alive BOOLEAN
 );
